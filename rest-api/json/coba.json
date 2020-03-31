@@ -1,0 +1,30 @@
+[{
+        "nama": "Roberto Assist",
+        "umur": 29,
+        "nrp": "0124958063",
+        "lulus": true,
+        "hobby": [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Brendan R",
+            "pembimbing2": "Jurgen K"
+        }
+    },
+    {
+        "nama": "Jordan Captain",
+        "umur": 32,
+        "nrp": "038394352",
+        "lulus": true,
+        "hobby": [
+            "running",
+            "gaming"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Kenny D",
+            "pembimbing2": "Brendan R",
+            "pembimbing3": "Jurgen K"
+        }
+    }
+]
